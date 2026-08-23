@@ -30,47 +30,6 @@ el código.
 - Seaborn
 - Streamlit
 
-## Funcionalidades principales
-
-La aplicación está organizada en diferentes secciones que permiten desarrollar
-el análisis de forma progresiva:
-
-- Carga de un dataset en formato CSV mediante Streamlit.
-- Visualización inicial de los registros cargados.
-- Identificación de las dimensiones del dataset.
-- Clasificación automática de variables numéricas y categóricas.
-- Revisión de los tipos de datos de cada variable.
-- Cálculo de estadísticas descriptivas.
-- Análisis de valores nulos (`NaN`) y valores desconocidos (`unknown`).
-- Análisis de distribuciones de variables numéricas mediante histogramas.
-- Análisis de frecuencias, proporciones y moda de variables categóricas.
-- Comparación de variables numéricas con el resultado de la campaña mediante boxplots.
-- Comparación de variables categóricas con la variable objetivo `y`.
-- Selección dinámica de variables y parámetros de análisis.
-- Presentación de hallazgos clave obtenidos durante el EDA.
-- Generación de conclusiones basadas en los resultados observados.
-
-
-## Funcionalidades principales
-
-La aplicación está organizada en diferentes secciones que permiten desarrollar
-el análisis de forma progresiva:
-
-- Carga de un dataset en formato CSV mediante Streamlit.
-- Visualización inicial de los registros cargados.
-- Identificación de las dimensiones del dataset.
-- Clasificación automática de variables numéricas y categóricas.
-- Revisión de los tipos de datos de cada variable.
-- Cálculo de estadísticas descriptivas.
-- Análisis de valores nulos (`NaN`) y valores desconocidos (`unknown`).
-- Análisis de distribuciones de variables numéricas mediante histogramas.
-- Análisis de frecuencias, proporciones y moda de variables categóricas.
-- Comparación de variables numéricas con el resultado de la campaña mediante boxplots.
-- Comparación de variables categóricas con la variable objetivo `y`.
-- Selección dinámica de variables y parámetros de análisis.
-- Presentación de hallazgos clave obtenidos durante el EDA.
-- Generación de conclusiones basadas en los resultados observados.
-
 
 ## Funcionalidades principales
 
