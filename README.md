@@ -102,3 +102,9 @@ seleccionar el archivo `BankMarketing.csv`.
 
 Después de cargar el dataset estarán disponibles las diferentes secciones del
 análisis exploratorio.
+
+
+## Links relevantes
+
+- Repositorio GitHub: https://github.com/RasecDev06/BankMarketingAnalytics
+- Aplicación Streamlit: pendiente de despliegue
