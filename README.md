@@ -107,4 +107,4 @@ análisis exploratorio.
 ## Links relevantes
 
 - Repositorio GitHub: https://github.com/RasecDev06/BankMarketingAnalytics
-- Aplicación Streamlit: pendiente de despliegue
+- https://bank-marketing-analytics-rasecdev06.streamlit.app/
